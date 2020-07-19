@@ -1,0 +1,7 @@
+.item-add-form button{
+	flex: 0 0 auto;
+}
+
+.item-add-form input {
+	margin-right: 4px;
+}
